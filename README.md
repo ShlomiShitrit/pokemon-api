@@ -1,1 +1,1 @@
-# starwars-api
+# pokemon-api
